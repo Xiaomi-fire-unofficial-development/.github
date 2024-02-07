@@ -4,4 +4,4 @@
 This organization contains repositories required to build AOSP ROMs and custom recoveries for Redmi 12.
 
 ### Repositories
-* [**Device Tree**](https://github.com/Xiaomi-fire-unofficial-development/twrp_device_xiaomi_fire) (`twrp_device_xiaomi_fire`)
+* [**TWRP Device Tree**](https://github.com/Xiaomi-fire-unofficial-development/twrp_device_xiaomi_fire) (`twrp_device_xiaomi_fire`)
